@@ -56,15 +56,6 @@ I'm a passionate developer from Bangladesh who enjoys building modern, responsiv
 
 ---
 
-## 🚀 Featured Projects
-
-- 🏠 **[RentNest](https://github.com/rashidaakther74/rentnest)** — Rental Property Marketplace
-- 🛒 **[E-Commerce Projects](https://github.com/rashidaakther74)** — Modern shopping experiences
-- 💼 **[Portfolio Projects](https://github.com/rashidaakther74)** — Responsive developer portfolios
-- 📚 **[Student Projects](https://github.com/rashidaakther74)** — Practical web development applications
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
